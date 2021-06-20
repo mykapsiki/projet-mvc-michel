@@ -1,6 +1,6 @@
 # Projet MVC Michel
 
-Auteur : Leonella
+Auteur : Michel nkouma 
 
 # A propos de ce projet
 
